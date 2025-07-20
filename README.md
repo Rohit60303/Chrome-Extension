@@ -173,5 +173,7 @@ This is my 4th task, The **Chrome-Extension Time Tracker** is a productivity too
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
+<img width="1920" height="1140" alt="Image" src="https://github.com/user-attachments/assets/b031500a-6bda-452d-99bf-585b71d40d4f" />
+
 
 
